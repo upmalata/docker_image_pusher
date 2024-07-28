@@ -1,1 +1,1 @@
-docker pull zhayujie/chatgpt-on-wechat:1.6.9
+zhayujie/chatgpt-on-wechat:1.6.9
